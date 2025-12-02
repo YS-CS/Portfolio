@@ -2,8 +2,6 @@
 
 ### Currently studying Computer Science
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YS-CS" alt="YS-CS" /></a> </p>
-
 - 🔭 I'm currently working on **Currently working on a team project within a group inside my university, making a website related to virtual and physical games. https://github.com/akh5l/Team-14**
 
 - 📫 How to reach me **myousafb112@gmail.com**
